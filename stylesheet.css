@@ -7,15 +7,15 @@
 width: 15%;
 }
 .btn:hover{
-    border-color: black !important;
-    color: white !important;
-    background-color: pink !important;
+    border-color: #2a9d8f !important;
+    color:#e9c46a !important;
+    background-color: #264653 !important;
 }
 .btnCnt{
-    width: 31.5%;
+    width: 19.3%;
 }
 .btnCnt:hover{
-    border-color: black !important;
-    color: white !important;
-    background-color: pink !important;
+    border-color: #2a9d8f !important;
+    color: #e9c46a !important;
+    background-color: #264653 !important;
 }
