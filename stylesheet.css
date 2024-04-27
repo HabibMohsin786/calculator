@@ -1,0 +1,21 @@
+.display{
+    font-size: 42px;
+    height:80px;
+    width: 64%;
+}
+.btn{
+width: 15%;
+}
+.btn:hover{
+    border-color: black !important;
+    color: white !important;
+    background-color: pink !important;
+}
+.btnCnt{
+    width: 31.5%;
+}
+.btnCnt:hover{
+    border-color: black !important;
+    color: white !important;
+    background-color: pink !important;
+}
